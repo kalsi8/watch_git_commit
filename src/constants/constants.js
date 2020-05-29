@@ -1,0 +1,6 @@
+const PUB_SUB_TOPICS = {
+  SHOW_LOADER: 'SHOW_LOADER',
+  TOAST: 'TOAST',
+};
+
+export {PUB_SUB_TOPICS};
